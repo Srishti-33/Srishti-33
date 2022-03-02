@@ -1,4 +1,4 @@
-<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Sanskar Kapoor </h2>
+<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Srishti Rawat </h2>
 
 <br>
 
@@ -11,15 +11,15 @@
  ## About Me: 
  
 
-- 🌱 I’m currently learning DSA in c++ and Python
-- 👯 I’m looking to collaborate in full stack Web Dev Projects
+- 🌱 I’m currently learning DSA in c++ 
+- 👯 I’m looking to collaborate in front End Web Dev Projects
 - 🤔 I’m looking for help in DSA
-- 📫 How to reach me: kapoorshanskar@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hmm..
+- 📫 How to reach me: rawatsinu@gmail.com
+- 😄 Pronouns: She/Her
 
 
- ![](https://komarev.com/ghpvc/?username=sanskar-23&color=ff69b4)
+
+ ![](https://komarev.com/ghpvc/?username=Srishti-33&color=ff69b4)
 
 <br>
 
@@ -27,7 +27,7 @@
 ## Languages and Tools I use:
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/css3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/css3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
 
 <br>
 
@@ -42,7 +42,7 @@
 <br>
 
 ## Stats: 
-<img width="495px" src="https://github-readme-stats.vercel.app/api?username=sanskar-23&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-23&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
-<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar-23&theme=nightowl"/>
+<img width="495px" src="https://github-readme-stats.vercel.app/api?username=Srishti-33&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-33&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
+<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti-33&theme=nightowl"/>
 
