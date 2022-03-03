@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/skapoor_be20" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="skapoor_be20" height="40"/>	&nbsp;</a>
 <a href="https://www.linkedin.com/in/sanskar-kapoor-9a3264214" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="sanskar-kapoor-9a3264214" height="40"/>	&nbsp;</a>
-<a href="https://www.instagram.com/https://www.instagram.com/srishti___33/" target="blank"><img align="center" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="snaksra23._" height="40"/>	&nbsp;</a>
+<a href="https://www.instagram.com/srishti___33/" target="blank"><img align="center" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="snaksra23._" height="40"/>	&nbsp;</a>
 </p>
 
 <br>
